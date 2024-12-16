@@ -20,14 +20,6 @@
         },
         {
             "chainId": 88811,
-            "address": "0xCcEc50609597fcd198631AF2B1dad69A890D28a0",
-            "name": "USDN",
-            "symbol": "USDN",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ligebit/Sancho/refs/heads/main/usdn.png"
-        },
-        {
-            "chainId": 88811,
             "address": "0xEb19000D90f17FFbd3AD9CDB8915D928F4980fD1",
             "name": "USDCoin",
             "symbol": "USDC",
