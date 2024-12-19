@@ -1,10 +1,10 @@
 {
     "name": "Unit0 Sancho List",
-    "timestamp": "2024-12-16T19:00:00.000Z",
+    "timestamp": "2024-12-19T20:30:00.000Z",
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     },
     "tags": {},
     "logoURI": "https://raw.githubusercontent.com/ligebit/Sancho/refs/heads/main/sancho.png",
@@ -17,6 +17,13 @@
             "symbol": "Sancho",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ligebit/Sancho/refs/heads/main/sancho.png"
+        },
+        {
+            "chainId": 88811,
+            "address": "0xF252401108d869656Fa682e67B04AC9e9F4a388e",
+            "name": "Memma",
+            "symbol": "Memma",
+            "decimals": 18
         },
         {
             "chainId": 88811,
